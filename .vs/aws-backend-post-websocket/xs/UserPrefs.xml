@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{778E8344-1B23-4F5F-AA59-64AD45BA1E59}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/SocketController.cs">
+    <Files>
+      <File FileName="Controllers/BasicController.cs" Line="2" Column="1" />
+      <File FileName="Controllers/SocketController.cs" Line="5" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="aws-backend-post-websocket" expanded="True">
+            <Node name="aws-backend-post-websocket" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="SocketController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.aws-backend-post-websocket PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
